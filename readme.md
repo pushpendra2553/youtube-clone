@@ -22,6 +22,8 @@ Media (videos, thumbnails, profile pictures) is managed using **Cloudinary**.
 
 Attachend in only folder---------> Demo Video.mp4
 
+Demo Video Link ------ https://drive.google.com/file/d/1vxmqBYox3HNV4MIElkRE6atw7QosG29b/view?usp=sharing
+
 ---------------------------------------------------------------------------------------------------------
 
 ## 📦 Tech Stack
